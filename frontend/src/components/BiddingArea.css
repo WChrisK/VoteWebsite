@@ -1,0 +1,6 @@
+.bidding-area {
+    border: 1px solid black;
+    display: inline-block;
+    flex-grow: 100;
+    margin: 15px;
+}

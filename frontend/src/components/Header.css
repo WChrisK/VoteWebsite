@@ -1,7 +1,11 @@
 .header {
     background-color: darkslategrey;
     color: white;
+    height: 45px;
+    padding: 10px;
+}
+
+.title-text {
+    color: white;
     font-size: 28px;
-    height: 40px;
-    padding: 4px;
 }

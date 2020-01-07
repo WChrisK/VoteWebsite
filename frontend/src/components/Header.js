@@ -3,8 +3,8 @@ import './Header.css';
 
 class Header extends React.Component {
     render() {
-        return <div class="header">
-            Hello there!
+        return <div className={"header"}>
+            <span class={"title-text"}>Captain Voting App</span>
         </div>
     }
 }

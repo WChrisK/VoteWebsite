@@ -10,6 +10,7 @@ class App extends React.Component {
             <Header/>
             <Voting/>
             <Logs/>
+            <div className={"bottom-copyright"}>© Water, 2020</div>
         </React.Fragment>;
     }
 }
