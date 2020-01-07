@@ -1,0 +1,15 @@
+.current-bid {
+    margin: 50px;
+    text-align: center;
+}
+
+.free-agent-name {
+    font-size: 36px;
+    font-weight: bold;
+    margin: 8px;
+}
+
+.bidder-info {
+    font-size: 20px;
+    font-weight: bold;
+}

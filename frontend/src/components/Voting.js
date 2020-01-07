@@ -1,7 +1,7 @@
 import React from 'react';
-import BiddingArea from "./BiddingArea";
-import FreeAgents from "./FreeAgents";
-import Teams from "./Teams";
+import BiddingArea from "./BiddingArea/BiddingArea";
+import FreeAgents from "./FreeAgents/FreeAgents";
+import Teams from "./Teams/Teams";
 import './Voting.css';
 
 class Voting extends React.Component {
